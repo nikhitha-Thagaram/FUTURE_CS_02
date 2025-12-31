@@ -1,0 +1,7 @@
+Alerts_Log.xlsx,,,
+"Alert ID","Event ",Severity,"Status "
+A-01,"Malware Detected ","      High","Investigated "
+A-02,"Trojan Detected ","      High","Escalated "
+A-03,"Worm Infection ","      High","Escalated "
+A-04,"Login Failed ","      Medium ","Monitored "
+,,,
